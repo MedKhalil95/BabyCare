@@ -1,0 +1,5 @@
+Flask==3.0.0
+xhtml2pdf==0.2.13
+reportlab==4.0.4
+html5lib==1.1
+Pillow==10.1.0
